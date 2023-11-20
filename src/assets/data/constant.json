@@ -1,0 +1,62 @@
+{
+    "profilePic": "https://media.licdn.com/dms/image/D4D03AQFuQ9j5_whbwg/profile-displayphoto-shrink_800_800/0/1672067781561?e=1706140800&v=beta&t=eZBRmpLnPQVFYPq_ELXKzgkcSTw5q9ZU3aqC2q6xHss",
+    "profileBackgroundPic":"https://images.pexels.com/photos/460672/pexels-photo-460672.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "name": "Uttam Gupta",
+    "designation": "Software Engineer",
+    "socialLinks": [
+        {
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/in/uttamgupta"
+        }
+    ],
+    "starred": 125,
+    "pinned": 12,
+    "likes": 26000,
+    "views": 57800,
+    "verified": true,
+    "premium": true,
+    "followers": 6482,
+    "following": 245,
+    "posts": [
+        {
+            "title": "A Changing world order",
+            "description": [
+                "The world is changing at a feverish pace. Friends, colleagues and everyone engaged in knowledge work are beginning to sense this, including me. n this rapidly evolving landscape, the pace of change has become a constant force, reshaping industries, transforming job markets, and challenging the traditional ways we approach knowledge work. The digital age has ushered in unprecedented advancements in technology, communication, and information access, creating a dynamic environment that requires adaptability and continuous learning."
+            ],
+            "author": "anujgosalia",
+            "category": "musing",
+            "readingTime": "1 min",
+            "timeStamp": "2018-01-01T00:00:00.000Z",
+            "views": 102
+        },
+        {
+            "title": "Indian v/s Australia",
+            "description": [
+                "Think about it - this cricket series was akin to therapy. ",
+                "Laying our childhood trauma up top, working with it slowly and surely over two music-filled months.",
+                "The stadium became our collective counseling room, and each match was a session where we confronted our fears, celebrated small victories, and faced the inevitable setbacks."
+            ],
+            "author": "anujgosalia",
+            "category": "thought",
+            "readingTime": "1 min",
+            "timeStamp": "2018-01-01T00:00:00.000Z",
+            "views": 156
+        },
+        {
+            "title": "write to build",
+            "description": [
+                "Writing is the first step to create: ",
+                [
+                    "stories",
+                    "products",
+                    "companies"
+                ]
+            ],
+            "author": "anujgosalia",
+            "category": "thought",
+            "readingTime": "1 min",
+            "timeStamp": "2018-01-01T00:00:00.000Z",
+            "views": 228
+        }
+    ]
+}

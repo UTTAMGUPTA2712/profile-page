@@ -1,36 +1,49 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Terrible Tiny Tales Profile Page
+
+This project is a profile page created for Terrible Tiny Tales using the Next.js framework and Tailwind CSS.
 
 ## Getting Started
 
-First, run the development server:
+To get started with this project, follow the steps below:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. Clone the repository to your local machine:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+   ```bash
+   git clone https://github.com/UTTAMGUPTA2712/profile-page.git
+   ```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+2. Navigate to the project directory:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+   ```bash
+   cd profile-page
+   ```
 
-## Learn More
+3. Install the dependencies:
 
-To learn more about Next.js, take a look at the following resources:
+   ```bash
+   npm install
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+4. Start the development server:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+   ```bash
+   npm run dev
+   ```
 
-## Deploy on Vercel
+5. Open your browser and visit `http://localhost:3000` to view the profile page.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Technologies Used
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Next.js - A React framework for building server-side rendered and static websites.
+- Tailwind CSS - A utility-first CSS framework for rapidly building custom user interfaces.
+
+## Project Structure
+
+The project structure is as follows:
+
+- `pages/`: This directory contains the Next.js pages for the profile page.
+- `components/`: This directory contains reusable components used in the profile page.
+- `styles/`: This directory contains the CSS styles for the profile page.
+- `public/`: This directory contains static assets such as images and fonts.
+- `utils/`: This directory contains utility functions used in the profile page.
+- `@types/`: This directory contains types used in the profile page.
